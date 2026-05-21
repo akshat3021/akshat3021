@@ -3,22 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=220&section=header&text=Hey%20there!%20I'm%20Akshat%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
-<!-- Typing SVG -->
+<!-- Profile Picture + Typing SVG -->
+<p align="center">
+  <img src="https://github.com/akshat3021.png" width="120" alt="Akshat Aswal" style="border-radius:50%" />
+</p>
+
 <p align="center">
   <a href="https://github.com/akshat3021">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;React+%7C+TypeScript+%7C+Firebase+Dev+%F0%9F%94%A5;Turning+ideas+into+reality%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+things+for+the+web+%F0%9F%8C%90;React+%7C+TypeScript+%7C+Firebase+Dev+%F0%9F%94%A5;Ideas+%E2%86%92+Code+%E2%86%92+Reality%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Profile Views & Social Badges -->
+<!-- Static Badges (no GitHub token dependency) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshat3021&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
-  <a href="https://github.com/akshat3021?tab=followers">
-    <img src="https://img.shields.io/github/followers/akshat3021?style=for-the-badge&color=3fb950&label=FOLLOWERS&logo=github" alt="Followers" />
-  </a>
+  <img src="https://img.shields.io/badge/FOLLOWERS-1-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/PRONOUNS-he%2Fhim-blueviolet?style=for-the-badge" alt="Pronouns" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 
 <br/>
@@ -43,7 +47,7 @@ const akshat = {
 - 🌱 &nbsp; Deep-diving into **TypeScript** and **serverless architectures**
 - 🛠️ &nbsp; Love turning complex problems into clean, minimal interfaces
 - 💬 &nbsp; Ask me about **React**, **Firebase**, or **frontend architecture**
-- ⚡ &nbsp; Fun fact: I'm a night owl — best code happens after midnight 🦉
+- ⚡ &nbsp; Fun fact: Best code happens after midnight 🦉
 
 <br/>
 
@@ -87,9 +91,9 @@ const akshat = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat3021&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="Akshat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat3021&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=14400" height="180" alt="Akshat's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat3021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat3021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=14400" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -109,19 +113,19 @@ const akshat = {
 <p align="center">
 
 <a href="https://github.com/akshat3021/akshat3021.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=akshat3021.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=akshat3021.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&cache_seconds=14400" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/akshat3021/cloud-file-storage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=cloud-file-storage&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Cloud File Storage" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=cloud-file-storage&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&cache_seconds=14400" alt="Cloud File Storage" />
 </a>
 
 <a href="https://github.com/akshat3021/SmartSeat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=SmartSeat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="SmartSeat" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=SmartSeat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&cache_seconds=14400" alt="SmartSeat" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/akshat3021/Aegis-Intelligence-V2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=Aegis-Intelligence-V2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Aegis Intelligence V2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3021&repo=Aegis-Intelligence-V2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&cache_seconds=14400" alt="Aegis Intelligence V2" />
 </a>
 
 </p>
@@ -143,7 +147,7 @@ const akshat = {
 
 <p align="center">
   <a href="https://akshat3021.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff&label=🌐" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://github.com/akshat3021" target="_blank">
