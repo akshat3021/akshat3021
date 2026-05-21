@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=220&section=header&text=Hey%20there!%20I'm%20Akshat%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
-<!-- Profile Picture + Typing SVG -->
-<p align="center">
-  <img src="https://github.com/akshat3021.png" width="120" alt="Akshat Aswal" style="border-radius:50%" />
-</p>
-
 <p align="center">
   <a href="https://github.com/akshat3021">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+things+for+the+web+%F0%9F%8C%90;React+%7C+TypeScript+%7C+Firebase+Dev+%F0%9F%94%A5;Ideas+%E2%86%92+Code+%E2%86%92+Reality%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
@@ -154,7 +149,7 @@ const akshat = {
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="[https://www.linkedin.com/in/akshat3021](https://www.linkedin.com/in/akshat-aswal-3021m)" target="_blank">
+  <a href="https://www.linkedin.com/in/akshat-aswal-3021m" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
