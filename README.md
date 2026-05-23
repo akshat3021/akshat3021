@@ -160,8 +160,6 @@ const akshat: Developer = {
   </picture>
 </p>
 
-> ⚙️ **To activate the snake:** Create `.github/workflows/snake.yml` in your `akshat3021` repo — see the `snake.yml` file included with this README.
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -172,37 +170,71 @@ const akshat: Developer = {
 
 ## 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/akshat3021/akshat3021.github.io">
-  <img src="https://gh-card.dev/repos/akshat3021/akshat3021.github.io.svg?fullname=&link_target=_blank&theme=dark" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://github.com/akshat3021/cloud-file-storage">
-  <img src="https://gh-card.dev/repos/akshat3021/cloud-file-storage.svg?fullname=&link_target=_blank&theme=dark" alt="Cloud File Storage"/>
-</a>
-
-<a href="https://github.com/akshat3021/SmartSeat">
-  <img src="https://gh-card.dev/repos/akshat3021/SmartSeat.svg?fullname=&link_target=_blank&theme=dark" alt="SmartSeat"/>
-</a>
-&nbsp;
-<a href="https://github.com/akshat3021/Aegis-Intelligence-V2">
-  <img src="https://gh-card.dev/repos/akshat3021/Aegis-Intelligence-V2.svg?fullname=&link_target=_blank&theme=dark" alt="Aegis Intelligence V2"/>
-</a>
-
-</p>
-
-### 🗂️ Project Highlights
-
 <div align="center">
-
-| 🏷️ Project | 💡 Description | 🔧 Stack |
-|:---|:---|:---:|
-| [**🌐 akshat3021.github.io**](https://github.com/akshat3021/akshat3021.github.io) | Personal portfolio website — showcase of work, skills & developer journey | `HTML` `CSS` `JS` |
-| [**☁️ cloud-file-storage**](https://github.com/akshat3021/cloud-file-storage) | Full-featured cloud storage system — upload, organize & retrieve files securely | `React` `Firebase` `JS` |
-| [**💺 SmartSeat**](https://github.com/akshat3021/SmartSeat) | Smart seating solution for efficient seat management and reservations | `HTML` `CSS` `JS` |
-| [**🛡️ Aegis-Intelligence-V2**](https://github.com/akshat3021/Aegis-Intelligence-V2) | Next-gen intelligence platform — V2 rebuild with TypeScript for stronger performance | `TypeScript` |
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/akshat3021/akshat3021.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-akshat3021.github.io-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://akshat3021.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-▶%20Visit-3fb950?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">My personal portfolio website — a showcase of my work, skills, and journey as a developer. Clean design, fast performance.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ Cloud File Storage</h3>
+      <p align="center">
+        <a href="https://github.com/akshat3021/cloud-file-storage" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-cloud--file--storage-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Full-featured cloud-based file storage system — upload, organize & retrieve files securely from anywhere using React & Firebase.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💺 SmartSeat</h3>
+      <p align="center">
+        <a href="https://github.com/akshat3021/SmartSeat" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-SmartSeat-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Smart seating solution built for efficient seat management and reservations — intuitive UI for real-world booking needs.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ Aegis Intelligence V2</h3>
+      <p align="center">
+        <a href="https://github.com/akshat3021/Aegis-Intelligence-V2" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-Aegis--Intelligence--V2-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Next-generation intelligence platform — complete V2 rebuild with TypeScript for stronger type safety, performance & scalability.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
