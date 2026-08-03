@@ -1,0 +1,20 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#060B14"/>
+      <stop offset="50%" stop-color="#0B1626"/>
+      <stop offset="100%" stop-color="#060B14"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#7C4DFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="120" fill="url(#bg4)"/>
+  <rect x="0" y="0" width="1000" height="3" fill="url(#accent2)"/>
+  <text x="500" y="60" text-anchor="middle" font-family="SFMono-Regular,Consolas,monospace" font-size="18" fill="#C9E4FF">$ echo "thanks for stopping by — let's build something 💙"</text>
+  <rect x="808" y="42" width="10" height="18" fill="#00F0FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="500" y="90" text-anchor="middle" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#5A7FA6">akshat3021 · India</text>
+</svg>
