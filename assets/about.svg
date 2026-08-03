@@ -1,0 +1,37 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="360" fill="#121212"/>
+
+  <rect x="40" y="36" width="14" height="14" fill="#D97748"/>
+  <text x="64" y="48" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#8A857C" letter-spacing="2">ABOUT</text>
+
+  <!-- row 01 -->
+  <g>
+    <text x="40" y="98" font-family="Georgia,serif" font-size="20" fill="#D97748">01</text>
+    <text x="90" y="94" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#5D584F" letter-spacing="1">CURRENTLY BUILDING</text>
+    <text x="90" y="118" font-family="Georgia,serif" font-size="19" fill="#EDEAE3">CivicFix — a civic complaint platform with role-based dashboards</text>
+    <line x1="40" y1="140" x2="960" y2="140" stroke="#242220" stroke-width="1"/>
+  </g>
+
+  <!-- row 02 -->
+  <g>
+    <text x="40" y="176" font-family="Georgia,serif" font-size="20" fill="#D97748">02</text>
+    <text x="90" y="172" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#5D584F" letter-spacing="1">SHIPPED</text>
+    <text x="90" y="196" font-family="Georgia,serif" font-size="19" fill="#EDEAE3">BookMySlot — live booking platform, Stripe payments, zero double-booking</text>
+    <line x1="40" y1="218" x2="960" y2="218" stroke="#242220" stroke-width="1"/>
+  </g>
+
+  <!-- row 03 -->
+  <g>
+    <text x="40" y="254" font-family="Georgia,serif" font-size="20" fill="#D97748">03</text>
+    <text x="90" y="250" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#5D584F" letter-spacing="1">LEARNING</text>
+    <text x="90" y="274" font-family="Georgia,serif" font-size="19" fill="#EDEAE3">Serverless architecture, advanced TypeScript patterns</text>
+    <line x1="40" y1="296" x2="960" y2="296" stroke="#242220" stroke-width="1"/>
+  </g>
+
+  <!-- row 04 -->
+  <g>
+    <text x="40" y="332" font-family="Georgia,serif" font-size="20" fill="#D97748">04</text>
+    <text x="90" y="328" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#5D584F" letter-spacing="1">ASK ME ABOUT</text>
+    <text x="90" y="352" font-family="Georgia,serif" font-size="19" fill="#EDEAE3">React, Node.js, System design, Firebase</text>
+  </g>
+</svg>

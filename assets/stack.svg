@@ -1,0 +1,24 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="260" fill="#121212"/>
+
+  <rect x="40" y="36" width="14" height="14" fill="#D97748"/>
+  <text x="64" y="48" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#8A857C" letter-spacing="2">STACK</text>
+  <line x1="40" y1="66" x2="960" y2="66" stroke="#33312C" stroke-width="1"/>
+
+  <g font-family="Georgia,serif" font-size="18" fill="#EDEAE3">
+    <text x="40" y="104">Languages</text>
+    <text x="960" y="104" text-anchor="end" fill="#B5AFA3">JavaScript · TypeScript · Java · HTML · CSS</text>
+    <line x1="40" y1="120" x2="960" y2="120" stroke="#242220" stroke-width="1"/>
+
+    <text x="40" y="150">Frameworks</text>
+    <text x="960" y="150" text-anchor="end" fill="#B5AFA3">React · Next.js · Express</text>
+    <line x1="40" y1="166" x2="960" y2="166" stroke="#242220" stroke-width="1"/>
+
+    <text x="40" y="196">Data &amp; Cloud</text>
+    <text x="960" y="196" text-anchor="end" fill="#B5AFA3">PostgreSQL · Firebase · Supabase</text>
+    <line x1="40" y1="212" x2="960" y2="212" stroke="#242220" stroke-width="1"/>
+
+    <text x="40" y="242">Tools</text>
+    <text x="960" y="242" text-anchor="end" fill="#B5AFA3">Git · Docker · Stripe · VS Code</text>
+  </g>
+</svg>
